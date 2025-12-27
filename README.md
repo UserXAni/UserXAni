@@ -1,3 +1,2 @@
-  ## Halo, Saya Ani 👋
-
-  Im a new learner
+## Hallo There 👋
+I Android Java Developers And Reverse Engineer Android App
